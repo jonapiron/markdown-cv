@@ -74,7 +74,7 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #777;
 }
 
 p code {
@@ -158,14 +158,14 @@ a {
 }
 
 a:hover {
-	color:#39f
+	color:#e6b800
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #777;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
 }
