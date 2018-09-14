@@ -30,15 +30,15 @@ __Institut Saint-Jospeh de Welkenraedt__
 
 ## COMPÉTENCES 
 
-### Informatique :
+__Informatique :__
 
 Microsoft Office, Adobe Creative Cloud, bonne connsaissance des outils informatiques, des réseaux sociaux et du monde de l'Internet
 
-### Langues :
+__Langues :__
 
 Français (langue maternelle), anglais (très bonne connaissance passive et active), néerlandais (connaissance passive limitée)
 
-### Divers :
+__Divers :__
 
 Gestion de groupe & médiation, animation & expression orale
 
