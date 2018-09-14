@@ -1,29 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Jonathan Piron
 ---
 # Jonathan Piron
 étudiant @ UCLouvain.
 
 <div id="webaddress">
 <a href="jona.piron@gmail.com">jona.piron@gmail.com</a>
-| <a href="http://jonapiron.be">jonapiron.be</a>
+| <a href="http://jonapiron.be">jonapiron.be</a> | +32 497 66 81 81
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+<div>
+  Domicile : Rue de Battice 80, 4880 Aubel
+  Résidence : Place Fernand Cocq 18, 1050 Ixelles
+</div>
 
 ## Formation
 
@@ -43,51 +33,34 @@ __Institut Saint-Jospeh de Welkenraedt__
 - Études secondaires - latin, anglais, néerlandais
 
 
+## Compétences 
 
-## Awards
+### Informatique
 
-`2012`
-President, *Royal Society*, London, UK
+Microsoft Office, Adobe Creative Cloud, bonne connsaissance des outils informatiques, des réseaux sociaux et du monde de l'Internet
 
-Associate, *French Academy of Science*, Paris, France
+### Langues
 
+Français (langue maternelle), anglais (très bonne connaissance passive et active), néerlandais (connaissance passive limitée)
 
+### Divers
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Gestion de groupe & médiation, animation & expression orale
 
 
-## Occupation
+### Centres d'intérêt
 
-`1600`
-__Royal Mint__, London
+### Sciences politiques : démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, civic tech
 
-- Warden
-- Minted coins
+### Arts & culture : musique, théâtre, photo & vidéo, (web)design
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Sport : course à pied, fitness
 
+### Divers : éducation & enseignement, sciences & technologies, environnement
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Dernière mise à jour : 09/2018 -->
 
 
