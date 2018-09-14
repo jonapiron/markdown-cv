@@ -43,7 +43,7 @@ Français (langue maternelle), anglais (très bonne connaissance passive et acti
 Gestion de groupe & médiation, animation & expression orale
 
 
-### Centres d'intérêt
+## Centres d'intérêt
 
 ### Sciences politiques : 
 
