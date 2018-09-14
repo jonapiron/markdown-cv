@@ -11,7 +11,7 @@ Place Fernand Cocq 18, 1050 Ixelles
 
 <div id="webaddress">
   <a href="https://jonapiron.be"><i class="fas fa-home"></i> jonapiron.be</a> - 
-  <a href="https://linkedin.com/in/jonapiron"><i class="fas fa-linkedin"></i> LinkedIn</a> -
+  <a href="https://linkedin.com/in/jonapiron"><i class="fab fa-linkedin"></i> LinkedIn</a> -
   <a href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
