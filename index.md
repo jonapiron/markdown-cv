@@ -5,9 +5,9 @@ title: CV Jonathan Piron
 # Jonathan Piron
 étudiant @ UCLouvain
 
-Place Fernand Cocq 18, 1050 Ixelles
+Place Fernand Cocq 18, 1050 Ixelles <br/>
 
-<a href="mailto:jona.piron@gmail.com">jona.piron@gmail.com</a> <br/> - +32 497 66 81 81
+<a href="mailto:jona.piron@gmail.com">jona.piron@gmail.com</a> +32 497 66 81 81
 
 <div id="webaddress">
   <a target="_blank" href="http://jonapiron.be"><i class="fas fa-home"></i> jonapiron.be</a> - 
