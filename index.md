@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV Jonathan Piron
+title: Jonathan Piron
 ---
 # Jonathan Piron
 étudiant @ UCLouvain
