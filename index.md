@@ -12,7 +12,7 @@ title: CV Jonathan Piron
 <i class="fas fa-mobile-alt"></i>  +32 497 66 81 81
 
 <div id="webaddress">
-  <a target="_blank" href="http://jonapiron.be"><i class="fas user-circle"></i> jonapiron.be</a> - 
+  <a target="_blank" href="http://jonapiron.be"><i class="fas fa-user-circle"></i> jonapiron.be</a> - 
   <a target="_blank" href="https://linkedin.com/in/jonapiron"><i class="fab fa-linkedin"></i> /jonapiron</a> -
   <a target="_blank" href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
