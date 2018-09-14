@@ -3,7 +3,7 @@ layout: cv
 title: CV Jonathan Piron
 ---
 # Jonathan Piron
-étudiant @ UCLouvain.
+étudiant @ UCLouvain
 
 <div id="webaddress">
 <a href="jona.piron@gmail.com">jona.piron@gmail.com</a>
@@ -30,34 +30,34 @@ __Institut Saint-Jospeh de Welkenraedt__
 
 ## COMPÉTENCES 
 
-__Informatique :__
+__Informatique__
 
 Microsoft Office, Adobe Creative Cloud, bonne connsaissance des outils informatiques, des réseaux sociaux et du monde de l'Internet
 
-__Langues :__
+__Langues__
 
 Français (langue maternelle), anglais (très bonne connaissance passive et active), néerlandais (connaissance passive limitée)
 
-__Divers :__
+__Divers__
 
 Gestion de groupe & médiation, animation & expression orale
 
 
 ## CENTRES D'INTÉRÊT
 
-### Sciences politiques : 
+__Sciences politiques__
 
 Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, civic tech
 
-### Arts & culture : 
+__Arts & culture__
 
 Musique, théâtre, photo & vidéo, (web)design
 
-### Sport : 
+__Sport__ 
 
 Course à pied, fitness
 
-### Divers : 
+__Divers__
 
 Éducation & enseignement, sciences & technologies, environnement
 
