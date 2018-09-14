@@ -39,7 +39,7 @@ __Institut Saint-Jospeh de Welkenraedt__
 
 __Informatique__
 
-Microsoft Office, Adobe Creative Cloud, bonne connsaissance des outils informatiques, des réseaux sociaux et du monde de l'Internet
+Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils informatiques, des réseaux sociaux et du monde de l'Internet
 
 __Langues__
 
