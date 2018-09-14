@@ -7,7 +7,7 @@ title: CV Jonathan Piron
 
 Place Fernand Cocq 18, 1050 Ixelles <br/>
 
-<a href="jona.piron@gmail.com">jona.piron@gmail.com</a> <br/> +32 497 66 81 81
+<a href="jona.piron@gmail.com">jona.piron@gmail.com</a> | +32 497 66 81 81
 
 <div id="webaddress">
   <a href="https://jonapiron.be"><i class="fas fa-home"></i> jonapiron.be</a> - 
