@@ -35,28 +35,36 @@ __Institut Saint-Jospeh de Welkenraedt__
 
 ## Compétences 
 
-### Informatique
+### Informatique :
 
 Microsoft Office, Adobe Creative Cloud, bonne connsaissance des outils informatiques, des réseaux sociaux et du monde de l'Internet
 
-### Langues
+### Langues :
 
 Français (langue maternelle), anglais (très bonne connaissance passive et active), néerlandais (connaissance passive limitée)
 
-### Divers
+### Divers :
 
 Gestion de groupe & médiation, animation & expression orale
 
 
 ### Centres d'intérêt
 
-### Sciences politiques : démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, civic tech
+### Sciences politiques : 
 
-### Arts & culture : musique, théâtre, photo & vidéo, (web)design
+Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, civic tech
 
-### Sport : course à pied, fitness
+### Arts & culture : 
 
-### Divers : éducation & enseignement, sciences & technologies, environnement
+Musique, théâtre, photo & vidéo, (web)design
+
+### Sport : 
+
+Course à pied, fitness
+
+### Divers : 
+
+Éducation & enseignement, sciences & technologies, environnement
 
 
 <!-- ### Footer
