@@ -9,7 +9,7 @@ title: CV Jonathan Piron
 
 <a href="mailto:jona.piron@gmail.com"><i class="fas fa-envelope"></i> jona.piron@gmail.com</a> <br/>
 
-<i class="fas fa-mobile-alt"></i> +32 497 66 81 81
+<i class="fas fa-mobile-alt"></i>  +32 497 66 81 81
 
 <div id="webaddress">
   <a target="_blank" href="http://jonapiron.be"><i class="fas user-circle"></i> jonapiron.be</a> - 
