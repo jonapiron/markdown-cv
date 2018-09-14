@@ -2,12 +2,12 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jonathan Piron
+étudiant @ UCLouvain.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="jona.piron@gmail.com">jona.piron@gmail.com</a>
+| <a href="http://jonapiron.be">jonapiron.be</a>
 </div>
 
 
@@ -25,20 +25,22 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
-## Education
+## Formation
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2018`
+__UCLouvain__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Master en sciences politiques, orientation générale - finalité spécialisée en innovations et transformations démocratiques
 
-- Sizar
+`2012-2015`
+__UCLouvain__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Bachelier en sciences politiques, orientation générale - mineure en études européennes
 
-- Fellow
+`2006-2012`
+__Institut Saint-Jospeh de Welkenraedt__
+
+- Études secondaires - latin, anglais, néerlandais
 
 
 
