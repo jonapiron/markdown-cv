@@ -10,11 +10,6 @@ title: CV Jonathan Piron
 | <a href="http://jonapiron.be">jonapiron.be</a> | +32 497 66 81 81
 </div>
 
-<div>
-  Domicile : Rue de Battice 80, 4880 Aubel
-  Résidence : Place Fernand Cocq 18, 1050 Ixelles
-</div>
-
 ## Formation
 
 `2015-2018`
