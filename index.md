@@ -10,7 +10,7 @@ title: CV Jonathan Piron
 | <a href="http://jonapiron.be">jonapiron.be</a> | +32 497 66 81 81
 </div>
 
-## Formation
+## FORMATION
 
 `2015-2018`
 __UCLouvain__
@@ -25,10 +25,10 @@ __UCLouvain__
 `2006-2012`
 __Institut Saint-Jospeh de Welkenraedt__
 
-- Études secondaires - latin, anglais, néerlandais
+- Études secondaires - options : latin, anglais, néerlandais
 
 
-## Compétences 
+## COMPÉTENCES 
 
 ### Informatique :
 
@@ -43,7 +43,7 @@ Français (langue maternelle), anglais (très bonne connaissance passive et acti
 Gestion de groupe & médiation, animation & expression orale
 
 
-## Centres d'intérêt
+## CENTRES D'INTÉRÊT
 
 ### Sciences politiques : 
 
