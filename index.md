@@ -15,8 +15,6 @@ Place Fernand Cocq 18, 1050 Ixelles
   <a href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
-:coffee:
-
 ## FORMATION
 
 `2015-2018`
