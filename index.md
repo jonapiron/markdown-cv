@@ -10,6 +10,8 @@ title: CV Jonathan Piron
 | <a href="http://jonapiron.be">jonapiron.be</a> | +32 497 66 81 81
 </div>
 
+:coffee:
+
 ## FORMATION
 
 `2015-2018`
@@ -43,7 +45,7 @@ __Divers__
 Gestion de groupe & médiation, animation & expression orale
 
 
-## CENTRES D'INTÉRÊT
+## INTÉRÊTS
 
 __Sciences politiques__
 
