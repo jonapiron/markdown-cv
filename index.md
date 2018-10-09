@@ -3,7 +3,7 @@ layout: cv
 title: CV Jonathan Piron
 ---
 # Jonathan Piron
-étudiant @ UCLouvain.
+Assistant de recherche @ <a href="https://uclouvain.be" target="_blank">UCLouvain</a>.
 
 <div id="webaddress">
 <a href="jona.piron@gmail.com">jona.piron@gmail.com</a>
