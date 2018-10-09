@@ -7,7 +7,7 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
 
 <i class="fas fa-home"></i> Place Fernand Cocq 18, 1050 Ixelles <br/>
 
-<i class="fas fa-envelope"></i> <a href="mailto:jona.piron@gmail.com"> jona.piron@gmail.com</a> <br/>
+<i class="fas fa-envelope"></i> <a href="mailto:jonathan.piron@uclouvain.be"> jonathan.piron@uclouvain.be</a> <br/>
 
 <i class="fas fa-mobile-alt"></i>  +32 497 66 81 81
 
