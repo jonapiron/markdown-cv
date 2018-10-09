@@ -3,7 +3,7 @@ layout: cv
 title: Jonathan Piron
 ---
 # Jonathan Piron
-étudiant @ UCLouvain
+assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 <i class="fas fa-home"></i> Place Fernand Cocq 18, 1050 Ixelles <br/>
 
