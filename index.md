@@ -17,6 +17,12 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
   <a target="_blank" href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
+## EXPÉRIENCE
+`2018 - `
+__UCLouvain__
+
+- Assistant de recherche, en charge de la production du MOOC "Louv23x - Méthodologie de la recherche en sciences sociales"
+
 ## FORMATION
 
 `2015-2018`
@@ -71,6 +77,6 @@ __Divers__
 
 <!-- ### Footer
 
-Dernière mise à jour : 09/2018 -->
+Dernière mise à jour : 10/2018 -->
 
 
