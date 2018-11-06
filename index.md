@@ -19,7 +19,8 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
 
 ## EXPÉRIENCE
 `2018- `
-__UCLouvain__
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
+UCLouvain__
 
 - Assistant de recherche, en charge de la production du MOOC Louv23x "Méthodologie de la recherche en sciences sociales"
 
