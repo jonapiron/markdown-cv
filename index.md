@@ -17,11 +17,24 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
   <a target="_blank" href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
-## EXPÉRIENCE
+## EXPÉRIENCE PROFESSIONNELLE
 `2018- `
 __UCLouvain__
 
 - Assistant de recherche, en charge de la production du MOOC Louv23x "Méthodologie de la recherche en sciences sociales"
+
+`2018- `
+__Inventio Group__
+
+- Chargé de projet, événementiel participatif et politique
+
+## ENGAGEMENTS BÉNÉVOLES
+
+`2016- `
+__TEDxUCLouvain__
+
+- Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
+
 
 ## FORMATION
 
@@ -45,7 +58,7 @@ __Institut Saint-Jospeh de Welkenraedt__
 
 __Informatique__
 
-Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils informatiques, des réseaux sociaux et du monde de l'Internet
+Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils numériques, des réseaux sociaux et du monde de l'Internet
 
 __Langues__
 
