@@ -49,7 +49,7 @@ __UCLouvain__
 - Bachelier en sciences politiques, orientation générale - mineure en études européennes
 
 `2006-2012`
-__Institut Saint-Jospeh de Welkenraedt__
+__Institut Saint-Joseph de Welkenraedt__
 
 - Études secondaires - options : latin, anglais, néerlandais
 
