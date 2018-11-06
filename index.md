@@ -17,7 +17,7 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
   <a target="_blank" href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
-## EXPÉRIENCE PROFESSIONNELLE
+## EXPÉRIENCE
 `2018- `
 __UCLouvain__
 
@@ -28,7 +28,7 @@ __Inventio Group__
 
 - Chargé de projet, événementiel participatif et politique
 
-## ENGAGEMENTS BÉNÉVOLES
+## BÉNÉVOLAT
 
 `2016- `
 __TEDxUCLouvain__
