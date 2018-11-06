@@ -19,20 +19,19 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
 
 ## EXPÉRIENCE
 `2018- `
-__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
-UCLouvain__
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
 
 - Assistant de recherche, en charge de la production du MOOC Louv23x "Méthodologie de la recherche en sciences sociales"
 
 `2018- `
-__Inventio Group__
+__<a target="_blank" href="http://www.inventio-group.eu/">Inventio Group</a> / <a target="_blank" href="http://particitiz.org/">Particitiz</a>__
 
 - Chargé de projet, événementiel participatif et politique
 
 ## BÉNÉVOLAT
 
 `2016- `
-__TEDxUCLouvain__
+__<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
 - Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
 
