@@ -23,10 +23,10 @@ __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
 
 - Assistant en charge de la production et du suivi de cours en ligne : 
 <ul>
-  <li><a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
-  <li><a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li> 
-  <li>Louv26x "Économie sociale et solidaire"</li>
-  </ul>
+  <li> ➜ <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
+  <li> ➜ <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
+  <li> ➜ Louv26x "Économie sociale et solidaire"</li>
+</ul>
 
 `2018- `
 __<a target="_blank" href="http://www.inventio-group.eu/">Inventio Group</a> / <a target="_blank" href="http://particitiz.org/">Particitiz</a>__
