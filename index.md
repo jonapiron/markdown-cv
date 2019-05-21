@@ -21,7 +21,7 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
 `2018- `
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
 
-- Assistant de recherche, en charge de la production du MOOC Louv23x "Méthodologie de la recherche en sciences sociales"
+- Assistant en charge de la production et du suivi de cours en ligne : <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a>  <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a> Louv26x "Économie sociale et solidaire"
 
 `2018- `
 __<a target="_blank" href="http://www.inventio-group.eu/">Inventio Group</a> / <a target="_blank" href="http://particitiz.org/">Particitiz</a>__
@@ -35,21 +35,32 @@ __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
 - Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
 
+`2016- `
+__<a target="_blank" href="https://universatil.be/">Théâtre Universitaire de Louvain · TUL ABSL & Kot-à-Projet</a>__
+
+- Membre de l'équipe organisatrice du festival Universatil,  conférence TEDx de la communauté UCLouvain
+
+`2016- `
+__<a target="_blank" href="https://tedxuclouvain.com">BDE ESPO</a>__
+
+- Délégué représentant des étudiants, membre du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication), secrétaire puis président du 
+
+
 
 ## FORMATION
 
 `2015-2018`
-__UCLouvain__
+__UCLouvain__ (Louvain-la-Neuve)
 
 - Master en sciences politiques, orientation générale - finalité spécialisée en innovations et transformations démocratiques
 
 `2012-2015`
-__UCLouvain__
+__UCLouvain__ (Louvain-la-Neuve)
 
 - Bachelier en sciences politiques, orientation générale - mineure en études européennes
 
 `2006-2012`
-__Institut Saint-Joseph de Welkenraedt__
+__Institut Saint-Joseph__ (Welkenraedt)
 
 - Études secondaires - options : latin, anglais, néerlandais
 
