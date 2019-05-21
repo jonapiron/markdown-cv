@@ -5,7 +5,7 @@ title: Jonathan Piron
 # Jonathan Piron
 assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
-<i class="fas fa-home"></i> Place Fernand Cocq 18, 1050 Ixelles <br/>
+<i class="fas fa-home"></i> Place Fernand Cocq 18 · 1050 Ixelles <br/>
 
 <i class="fas fa-envelope"></i> <a href="mailto:jonathan.piron@uclouvain.be"> jonathan.piron@uclouvain.be</a> <br/>
 
