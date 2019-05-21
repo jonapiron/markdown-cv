@@ -19,7 +19,7 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
 
 ## EXPÉRIENCE
 `2018- `
-__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ (Louvain-la-Neuve)
 
 - Assistant en charge de la production et du suivi de cours en ligne : 
 <ul>
@@ -55,12 +55,12 @@ __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 ## FORMATION
 
 `2015-2018`
-__UCLouvain__ (Louvain-la-Neuve)
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ (Louvain-la-Neuve)
 
 - Master en sciences politiques, orientation générale - finalité spécialisée en innovations et transformations démocratiques
 
 `2012-2015`
-__UCLouvain__ (Louvain-la-Neuve)
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ (Louvain-la-Neuve)
 
 - Bachelier en sciences politiques, orientation générale - mineure en études européennes
 
