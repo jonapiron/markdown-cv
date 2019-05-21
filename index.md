@@ -25,7 +25,7 @@ __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
 <ul>
   <li> ➜ <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
   <li> ➜ <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
-  <li> ➜ Louv26x "Économie sociale et solidaire"</li>
+  <li> ➜ Louv26x "Économie sociale et solidaire" (en création)</li>
 </ul>
 
 `2018- `
@@ -40,15 +40,15 @@ __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
 - Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
 
-`2016- `
+`2015-2016`
 __<a target="_blank" href="https://universatil.be/">Théâtre Universitaire de Louvain · TUL ABSL & Kot-à-Projet</a>__
 
 - Membre de l'équipe organisatrice du festival Universatil,  conférence TEDx de la communauté UCLouvain
 
-`2016- `
-__<a target="_blank" href="https://tedxuclouvain.com">BDE ESPO</a>__
+`2012-2015`
+__<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 
-- Délégué représentant des étudiants, membre du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication), secrétaire puis président du 
+- Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication)
 
 
 
