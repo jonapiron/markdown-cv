@@ -18,20 +18,15 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
 </div>
 
 ## EXPÉRIENCE
-`2018- `
-__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ (Louvain-la-Neuve)
+`oct. 2018- `
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
-- Assistant en charge de la production et du suivi de cours en ligne : 
+- Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 <ul>
   <li> ➜ <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
   <li> ➜ <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
   <li> ➜ Louv26x "Économie sociale et solidaire" (en création)</li>
 </ul>
-
-`2018- `
-__<a target="_blank" href="http://www.inventio-group.eu/">Inventio Group</a> / <a target="_blank" href="http://particitiz.org/">Particitiz</a>__
-
-- Chargé de projet, événementiel participatif et politique
 
 ## BÉNÉVOLAT
 
@@ -55,17 +50,17 @@ __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 ## FORMATION
 
 `2015-2018`
-__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ (Louvain-la-Neuve)
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 - Master en sciences politiques, orientation générale - finalité spécialisée en innovations et transformations démocratiques
 
 `2012-2015`
-__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ (Louvain-la-Neuve)
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 - Bachelier en sciences politiques, orientation générale - mineure en études européennes
 
 `2006-2012`
-__Institut Saint-Joseph__ (Welkenraedt)
+__Institut Saint-Joseph__ _(Welkenraedt)_
 
 - Études secondaires - options : latin, anglais, néerlandais
 
@@ -85,7 +80,7 @@ __Divers__
 Gestion de groupe & médiation, animation & expression orale
 
 
-## INTÉRÊTS
+## INTÉRÊTS 💛
 
 __Sciences politiques__
 
