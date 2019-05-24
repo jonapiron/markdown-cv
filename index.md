@@ -17,7 +17,7 @@ assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvai
   <a target="_blank" href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
-## EXPÉRIENCE
+## 💼 EXPÉRIENCE
 `oct. 2018- `
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
@@ -47,7 +47,7 @@ __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 
 
 
-## 🎓 FORMATION 🎓
+##🎓 FORMATION
 
 `2015-2018`
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
