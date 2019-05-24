@@ -47,7 +47,7 @@ __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 
 
 
-## FORMATION
+## 🎓 FORMATION 🎓
 
 `2015-2018`
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
@@ -80,7 +80,7 @@ __Divers__
 Gestion de groupe & médiation, animation & expression orale
 
 
-## INTÉRÊTS 💛
+## 💛 INTÉRÊTS
 
 __Sciences politiques__
 
