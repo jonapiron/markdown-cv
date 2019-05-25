@@ -5,11 +5,11 @@ title: Jonathan Piron
 # Jonathan Piron
 assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
-<i class="fas fa-home"></i> Place Fernand Cocq 18 · 1050 Ixelles <br/>
+<i class="fas fa-home"></i> 🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
 
-<i class="fas fa-envelope"></i> <a href="mailto:jonathan.piron@uclouvain.be"> jonathan.piron@uclouvain.be</a> <br/>
+<i class="fas fa-envelope"></i> 📧 <a href="mailto:jonathan.piron@uclouvain.be"> jonathan.piron@uclouvain.be</a> <br/>
 
-<i class="fas fa-mobile-alt"></i>  +32 497 66 81 81
+<i class="fas fa-mobile-alt"></i> 📱 +32 497 66 81 81
 
 <div id="webaddress">
   <a target="_blank" href="http://jonapiron.be"><i class="fas fa-user-circle"></i> jonapiron.be</a> - 
@@ -28,7 +28,7 @@ __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Ne
   <li> ➜ Louv26x "Économie sociale et solidaire" (en création)</li>
 </ul>
 
-## BÉNÉVOLAT
+##  BÉNÉVOLAT
 
 `2016- `
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
