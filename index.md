@@ -28,7 +28,7 @@ __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Ne
   <li> ➜ Louv26x "Économie sociale et solidaire" (en création)</li>
 </ul>
 
-##  BÉNÉVOLAT
+## 💡 BÉNÉVOLAT
 
 `2016- `
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
@@ -65,7 +65,7 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 - Études secondaires - options : latin, anglais, néerlandais
 
 
-## COMPÉTENCES 
+## 🧠 COMPÉTENCES 
 
 __Informatique__
 
@@ -101,6 +101,6 @@ __Divers__
 
 <!-- ### Footer
 
-Dernière mise à jour : 10/2018 -->
+Dernière mise à jour : 05/2019 -->
 
 
