@@ -2,7 +2,7 @@
 layout: cv
 title: Jonathan Piron
 ---
-# Jonathan Piron
+# Jonathan Piron 🤓
 assistant de recherche @ <a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
