@@ -28,7 +28,7 @@ __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Ne
   <li> ➜ Louv26x "Économie sociale et solidaire" (en création)</li>
 </ul>
 
-## 💡 BÉNÉVOLAT
+## 💛 BÉNÉVOLAT
 
 `2016- `
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
@@ -80,7 +80,7 @@ __Divers__
 Gestion de groupe & médiation, animation & expression orale
 
 
-## 💛 INTÉRÊTS
+## 🎯 INTÉRÊTS
 
 __Sciences politiques__
 
