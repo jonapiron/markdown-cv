@@ -82,7 +82,7 @@ __Divers__
 Gestion de groupe & médiation, animation & expression orale
 
 
-## 🎯 SUJETS DE CONVERSATION
+## 💬 SUJETS DE CONVERSATION
 
 __Sciences politiques__
 
@@ -94,13 +94,13 @@ __Divers__
 
 
 
-## 🎯 LOISIRS
+## 🎨 LOISIRS
 
-__Arts & culture__
+__Arts & culture__ 🎭
 
 Musique, théâtre, photo & vidéo, (web)design
 
-__Sport__ 
+__Sport__ 🏅
 
 Course à pied, fitness
 
