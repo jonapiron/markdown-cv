@@ -9,7 +9,9 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 📧 <a href="mailto:jonathan.piron@uclouvain.be">jonathan.piron@uclouvain.be</a> <br/>
 
-📱 +32 497 66 81 81
+📱 +32 497 66 81 81 <br/>
+
+📅 03.11.1994 (24 ans)
 
 <div id="webaddress">
   <a target="_blank" href="http://jonapiron.be"><i class="fas fa-user-circle"></i> jonapiron.be</a> - 
