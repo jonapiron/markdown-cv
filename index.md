@@ -2,7 +2,7 @@
 layout: cv
 title: Jonathan Piron
 ---
-# Jonathan Piron 🤓
+# Jonathan Piron </br>
 assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
@@ -36,9 +36,9 @@ __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 - Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
 
 `2015-2016`
-__<a target="_blank" href="https://universatil.be/">Théâtre Universitaire de Louvain · TUL ABSL & Kot-à-Projet</a>__
+__<a target="_blank" href="https://universatil.be/">Théâtre Universitaire de Louvain</a>__
 
-- Membre de l'équipe organisatrice du festival Universatil,  conférence TEDx de la communauté UCLouvain
+- Membre du Théâtre Universitaire de Louvain (TUL) ABSL & Kot-à-Projet, en charge de l'organisation du 16e festival Universatil
 
 `2012-2015`
 __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
@@ -67,7 +67,7 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 
 ## ⚙️ COMPÉTENCES 
 
-__Informatique__
+__Informatique__ 
 
 Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils numériques, des réseaux sociaux et du monde de l'Internet
 
