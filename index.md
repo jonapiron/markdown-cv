@@ -5,8 +5,6 @@ title: Jonathan Piron
 # Jonathan Piron <br/>
 assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
-<hr/>
-
 📅 03.11.1994 (24 ans)
 
 🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
@@ -21,6 +19,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
   <a target="_blank" href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
+<br/>
 
 <hr/>
 
