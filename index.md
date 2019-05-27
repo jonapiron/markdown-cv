@@ -54,17 +54,17 @@ __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 `2015-2018`
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
-- Master en sciences politiques, orientation générale - finalité spécialisée en innovations et transformations démocratiques
+Master en sciences politiques, orientation générale - finalité spécialisée en innovations et transformations démocratiques
 
 `2012-2015`
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
-- Bachelier en sciences politiques, orientation générale - mineure en études européennes
+Bachelier en sciences politiques, orientation générale - mineure en études européennes
 
 `2006-2012`
 __Institut Saint-Joseph__ _(Welkenraedt)_
 
-- Études secondaires - options : latin, anglais, néerlandais
+Études secondaires - options : latin, anglais, néerlandais
 
 
 ## ⚙️ COMPÉTENCES 
