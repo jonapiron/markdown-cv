@@ -23,7 +23,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 `oct. 2018- `
 __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
-- Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
+Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 <ul>
   <li> ➜ <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
   <li> ➜ <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
@@ -35,17 +35,17 @@ __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLo
 `2016- `
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
-- Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
+Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
 
 `2015-2016`
 __<a target="_blank" href="https://universatil.be/">Théâtre Universitaire de Louvain</a>__
 
-- Membre du Théâtre Universitaire de Louvain (TUL) ABSL & Kot-à-Projet, en charge de l'organisation du 16e festival Universatil
+Membre du Théâtre Universitaire de Louvain (TUL) ABSL & Kot-à-Projet, en charge de l'organisation du 16e festival Universatil
 
 `2012-2015`
 __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 
-- Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication)
+Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication)
 
 
 
