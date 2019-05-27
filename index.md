@@ -19,7 +19,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
   <a target="_blank" href="https://twitter.com/jonapiron"><i class="fab fa-twitter"></i> @jonapiron</a>
 </div>
 
-## 💼 EXPÉRIENCE
+## 💼 EXPÉRIENCE PROFESSIONNELLE
 `oct. 2018- `
 __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
@@ -30,7 +30,7 @@ __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLo
   <li> ➜ Louv26x "Économie sociale et solidaire" (en création)</li>
 </ul>
 
-## 💛 BÉNÉVOLAT
+## 💛 ENGAGEMENT BÉNÉVOLE 
 
 `2016- `
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
@@ -69,24 +69,32 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 
 ## ⚙️ COMPÉTENCES 
 
-__Informatique__ 
+__Informatique__ 💻
 
 Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils numériques, des réseaux sociaux et du monde de l'Internet
 
-__Langues__
+__Langues__ 🌐
 
 Français (langue maternelle), anglais (très bonne connaissance passive et active), néerlandais (connaissance passive limitée)
 
-__Divers__
+__Divers__ 
 
 Gestion de groupe & médiation, animation & expression orale
 
 
-## 🎯 INTÉRÊTS
+## 🎯 SUJETS DE CONVERSATION
 
 __Sciences politiques__
 
 Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, civic tech
+
+__Divers__
+
+Éducation & enseignement, sciences & technologies, environnement
+
+
+
+## 🎯 LOISIRS
 
 __Arts & culture__
 
@@ -95,10 +103,6 @@ Musique, théâtre, photo & vidéo, (web)design
 __Sport__ 
 
 Course à pied, fitness
-
-__Divers__
-
-Éducation & enseignement, sciences & technologies, environnement
 
 
 <!-- ### Footer
