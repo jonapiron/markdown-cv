@@ -80,7 +80,7 @@ code {
 p code {
 	position: relative;
 	text-align: right;
-	right: -20%;
+	left: 20%;
 }
 
 
