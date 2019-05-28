@@ -6,11 +6,8 @@ title: Jonathan Piron
 assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 📅 03-11-1994 (24 ans)
-
 🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
-
 📧 <a href="mailto:jonathan.piron@uclouvain.be">jonathan.piron@uclouvain.be</a> <br/>
-
 📱 +32 497 66 81 81 <br/>
 
 <div id="webaddress">
