@@ -64,7 +64,7 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 - Anglais - niveau C1
 - Néerlandais - niveau B1
 
-  ### Divers 
+### Divers 
 Gestion de groupe & médiation, animation & expression orale
 
 ## 💬 SUJETS DE CONVERSATION
