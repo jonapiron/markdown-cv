@@ -75,9 +75,11 @@ Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils numérique
 
 __Langues__ 🌐
 
-• Français (langue maternelle) ⏺⏺⏺
-• Anglais (très bonne connaissance passive et active) ⏺⏺◐
-• Néerlandais (connaissance passive limitée) ◐⭘⭘
+<ul>
+  <li>• Français (langue maternelle) ⏺⏺⏺</li>
+  <li>• Anglais (très bonne connaissance passive et active) ⏺⏺◐</li>
+  <li>• Néerlandais (connaissance passive limitée) ◐⭘⭘</li>
+</ul>
 
 __Divers__ 
 
