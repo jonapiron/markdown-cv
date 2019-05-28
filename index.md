@@ -25,9 +25,9 @@ __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLo
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 <ul>
-  <li> ➜ <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
-  <li> ➜ <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
-  <li> ➜ Louv26x "Économie sociale et solidaire" (en création)</li>
+  <li><a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
+  <li><a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
+  <li>Louv26x "Économie sociale et solidaire" (en création)</li>
 </ul>
 
 ## 💛 ENGAGEMENT BÉNÉVOLE 
@@ -76,9 +76,9 @@ Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils numérique
 __Langues__ 🌐
 
 <ul>
-  <li>• Français - langue maternelle</li>
-  <li>• Anglais - niveau C1</li>
-  <li>• Néerlandais - niveau B1</li>
+  <li>Français - langue maternelle</li>
+  <li>Anglais - niveau C1</li>
+  <li>Néerlandais - niveau B1</li>
 </ul>
 
 __Divers__ 
