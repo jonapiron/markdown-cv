@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.5em;
+	margin-bottom: 0.7em;
 	margin-right: 0;
 	margin-top: -0.25em;
 	width: 55%;
@@ -87,15 +87,15 @@ p code {
 
 ul { 
 	position: relative;
-	left: 25%;
+	left: 30%;
 	width: 65%;
-	margin-bottom: 0.5em;
+	margin-bottom: 0.7em;
 	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
 li:before {
-	content: "•";
+	content: "➜";
 	position: relative;
 	left: -0.25em;
 }
@@ -117,7 +117,7 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: 'Quicksand', sans-serif;
-	width: 80%;
+	width: 85%;
 }
 
 h1 {
@@ -163,7 +163,7 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-top: 0.5em;
 	position: relative;
 	left: 25%;
 	color: #333333;
