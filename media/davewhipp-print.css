@@ -56,7 +56,7 @@ body {
 	font-size: 12pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	font-family: Avenir,Verdana,sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	/*margin-top: 1em;
 	margin-left: 1em;*/
 }
@@ -73,7 +73,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: 'Source Code Pro', monospace;
 	color: #777;
 }
 
@@ -115,7 +115,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: 'Quicksand', sans-serif;
 	width: 80%;
 }
 
@@ -131,6 +131,8 @@ h1+p {
 	/*subtitle*/
 	font-style: italic;
 	font-size: 110%;
+	margin-top: 0.25em;
+	margin-bottom: 0.25em;
 }
 
 h2 {
@@ -164,11 +166,11 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
+	margin-top: 0.5em;
 	position: relative;
 	left: 25%;
-	color: #777;
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	color: #333333;
+	font-family: 'Source Code Pro', monospace;
 	font-size: 90%;
 }
 
@@ -177,8 +179,8 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e 
+	font-style: italic;
+	color: #333333;
 }
 
 strong {
