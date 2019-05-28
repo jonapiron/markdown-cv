@@ -24,9 +24,9 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
-- <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
-- <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
-- Louv26x "Économie sociale et solidaire" (en création)</li>
+- <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
+- <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a>
+- Louv26x "Économie sociale et solidaire" (en création)
 
 ## 💛 ENGAGEMENT BÉNÉVOLE 
 
@@ -50,25 +50,24 @@ Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté 
 ## 🎓 FORMATION
 
 `2015-2018`
-__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
+### __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
-Master en sciences politiques, orientation générale - finalité spécialisée en innovations et transformations démocratiques
+Master en sciences politiques, orientation générale - _finalité spécialisée en innovations et transformations démocratiques_
 
 `2012-2015`
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
-Bachelier en sciences politiques, orientation générale - mineure en études européennes
+Bachelier en sciences politiques, orientation générale - _mineure en études européennes_
 
 `2006-2012`
 __Institut Saint-Joseph__ _(Welkenraedt)_
 
-Études secondaires - options : latin, anglais, néerlandais
+Études secondaires - _options : latin, anglais, néerlandais_
 
 
 ## ⚙️ COMPÉTENCES 
 
 ### Informatique 💻
-__Informatique__ 💻
 
 - Suite Microsoft Office
 - Suite Adobe Creative Cloud,
@@ -76,26 +75,23 @@ __Informatique__ 💻
 - Web : HTML et CSS onne connaissance des outils numériques, des réseaux sociaux et du monde de l'Internet
 
 ### Langues 🌐
-__Langues__ 🌐
 
-<ul>
-  <li>Français - langue maternelle</li>
-  <li>Anglais - niveau C1</li>
-  <li>Néerlandais - niveau B1</li>
-</ul>
+- Français - langue maternelle
+- Anglais - niveau C1
+- Néerlandais - niveau B1
 
-__Divers__ 
+### Divers 
 
 Gestion de groupe & médiation, animation & expression orale
 
 
 ## 💬 SUJETS DE CONVERSATION
 
-__Sciences politiques__
+### Politique
 
 Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, civic tech
 
-__Divers__
+### Divers
 
 Éducation & enseignement, sciences & technologies, environnement
 
@@ -103,11 +99,11 @@ __Divers__
 
 ## 🎨 LOISIRS
 
-__Arts & culture__ 🎭
+### Arts & culture 🎭
 
 Musique, théâtre, photo & vidéo, (web)design
 
-__Sport__ 🏅
+### Sport 🏅
 
 Course à pied, fitness
 
