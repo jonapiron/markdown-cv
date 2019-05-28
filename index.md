@@ -77,7 +77,7 @@ __Langues__ 🌐
 
 - Français (langue maternelle) ⏺⏺⏺
 - Anglais (très bonne connaissance passive et active) ⏺⏺◐
-- Néerlandais (connaissance passive limitée) ◐○○
+- Néerlandais (connaissance passive limitée) ◐⭘⭘
 
 __Divers__ 
 
