@@ -4,9 +4,13 @@ title: Jonathan Piron
 ---
 # Jonathan Piron <br/>
 assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
+
 📅 03-11-1994 (24 ans)
+
 🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
+
 📧 <a href="mailto:jonathan.piron@uclouvain.be">jonathan.piron@uclouvain.be</a> <br/>
+
 📱 +32 497 66 81 81 <br/>
 
 <div id="webaddress">
@@ -57,11 +61,13 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 - Wordpress, Jekyll
 - HTML & CSS 
 - Social media marketing
+
 ### Langues 🌐
 - Français - langue maternelle
 - Anglais - niveau C1
 - Néerlandais - niveau B1
-### Divers 
+
+  ### Divers 
 Gestion de groupe & médiation, animation & expression orale
 
 ## 💬 SUJETS DE CONVERSATION
