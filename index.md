@@ -19,6 +19,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 `oct. 2018- `
 __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
+
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 - <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
 - <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a>
@@ -27,27 +28,33 @@ Assistant en charge de la production et du suivi de plusieurs cours en ligne :
 ## 💛 ENGAGEMENT BÉNÉVOLE 
 `2016- `
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
+
 Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
 
 `2015-2016`
 __<a target="_blank" href="https://universatil.be/">Théâtre Universitaire de Louvain</a>__
+
 Membre du Théâtre Universitaire de Louvain (TUL) ABSL & Kot-à-Projet, en charge de l'organisation du 16e festival Universatil
 
 `2012-2015`
 __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
+
 Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication)
 
 ## 🎓 FORMATION
 `2015-2018`
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
+
 Master en sciences politiques, orientation générale - _finalité spécialisée en innovations et transformations démocratiques_
 
 `2012-2015`
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
+
 Bachelier en sciences politiques, orientation générale - _mineure en études européennes_
 
 `2006-2012`
 __Institut Saint-Joseph__ _(Welkenraedt)_
+
 Études secondaires - _options : latin, anglais, néerlandais_
 
 
@@ -80,8 +87,4 @@ Musique, théâtre, photo & vidéo, (web)design
 Course à pied, fitness
 
 
-<!-- ### Footer
-
-Dernière mise à jour : 05/2019 -->
-
-
+<!-- ### Footer Dernière mise à jour : 05/2019 -->
