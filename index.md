@@ -59,14 +59,14 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 
 
 ## ⚙️ COMPÉTENCES 
-### Informatique 💻
+### Informatique
 - Microsoft Office
 - Adobe Creative Cloud
 - Wordpress, Jekyll
 - HTML & CSS 
 - Social media marketing
 
-### Langues 🌐
+### Langues
 - Français - langue maternelle
 - Anglais - niveau C1
 - Néerlandais - niveau B1
@@ -81,9 +81,9 @@ Démocratie, participation & délibération, éducation & citoyenneté, désint�
 Éducation & enseignement, sciences & technologies, environnement
 
 ## 🎨 LOISIRS
-### Arts & culture 🎭
+### Arts & culture
 Musique, théâtre, photo & vidéo, (web)design
-### Sport 🏅
+### Sport
 Course à pied, fitness
 
 
