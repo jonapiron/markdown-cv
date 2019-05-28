@@ -71,7 +71,10 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 
 __Informatique__ 💻
 
-Microsoft Office, Adobe Creative Cloud, bonne connaissance des outils numériques, des réseaux sociaux et du monde de l'Internet
+- Suite Microsoft Office
+- Suite Adobe Creative Cloud,
+- Wordpress, Jekyll, 
+- Web : HTML et CSS onne connaissance des outils numériques, des réseaux sociaux et du monde de l'Internet
 
 __Langues__ 🌐
 
