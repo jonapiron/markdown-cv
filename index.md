@@ -50,7 +50,7 @@ Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté 
 ## 🎓 FORMATION
 
 `2015-2018`
-### __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 Master en sciences politiques, orientation générale - _finalité spécialisée en innovations et transformations démocratiques_
 
