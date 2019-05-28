@@ -24,11 +24,9 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
-<ul>
-  <li><a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
-  <li><a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
-  <li>Louv26x "Économie sociale et solidaire" (en création)</li>
-</ul>
+- <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a></li>
+- <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a></li>
+- Louv26x "Économie sociale et solidaire" (en création)</li>
 
 ## 💛 ENGAGEMENT BÉNÉVOLE 
 
@@ -69,6 +67,7 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 
 ## ⚙️ COMPÉTENCES 
 
+### Informatique 💻
 __Informatique__ 💻
 
 - Suite Microsoft Office
@@ -76,6 +75,7 @@ __Informatique__ 💻
 - Wordpress, Jekyll, 
 - Web : HTML et CSS onne connaissance des outils numériques, des réseaux sociaux et du monde de l'Internet
 
+### Langues 🌐
 __Langues__ 🌐
 
 <ul>
