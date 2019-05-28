@@ -108,7 +108,7 @@ li {
 
 li ul {
 	position: relative;
-	left: 0;
+	left: 0.25em;
 	width: 100%;
 	margin-top: 0.25em;
 }
@@ -136,7 +136,6 @@ h1+p {
 }
 
 h2 {
-	
 	font-size: 1.1em;
 	color: #e6b800;
 	margin-top: 3em;
