@@ -53,8 +53,8 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 100%;
-	line-height: 1.5em;
+	font-size: 12pt;
+	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: 'Quicksand', sans-serif;
 	margin-top: 1em;
@@ -64,7 +64,7 @@ body {
 p {
 	position: relative;
 	left: 30%;
-	margin-bottom: 0.75em;
+	margin-bottom: 0.2em;
 	margin-right: 0;
 	width: 50%;
 }
