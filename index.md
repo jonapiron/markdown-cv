@@ -19,7 +19,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 `oct. 2018- `
 
-### __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
+__<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 - <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
