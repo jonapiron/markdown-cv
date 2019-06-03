@@ -27,7 +27,6 @@ Assistant en charge de la production et du suivi de plusieurs cours en ligne :
 
 ## 💛 ENGAGEMENT BÉNÉVOLE 
 `2016- `
-
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
 Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
@@ -80,10 +79,10 @@ Gestion de groupe & médiation, animation & expression orale
 Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, écologie, civic tech
 
 ### Tech
-Open source
+Open source, 
 
 ### Média
-Podcast 
+Podcast, production audio & vidéo, 
 
 ### Divers
 Éducation & enseignement, sciences & technologies, environnement
