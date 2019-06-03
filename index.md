@@ -74,13 +74,13 @@ Gestion de groupe & médiation, animation & expression orale
 
 ## 💬 THÈMES DE PRÉDILECTION
 ### Politique
-Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, écologie, civic tech
+Démocratie / Participation & délibération / Éducation & citoyenneté / Désintérêt politique / Écologie / Civic tech
 
 ### Tech
-Monde de l'Internet, Open source, mobile devices, technologies durables
+Culture Internet / Logiciels libres / Appareil mobiles / Technologies durables
 
 ### Média
-Production audio & vidéo, podcasts
+Production audio & vidéo / Podcasts
 
 ## 🎨 LOISIRS
 ### Arts & culture
