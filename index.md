@@ -18,7 +18,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 `oct. 2018- `
-__<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
+### __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 - <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
@@ -76,7 +76,14 @@ Gestion de groupe & médiation, animation & expression orale
 
 ## 💬 SUJETS DE CONVERSATION
 ### Politique
-Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, civic tech
+Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, écologie, civic tech
+
+### Tech
+Open source
+
+### Média
+Podcast 
+
 ### Divers
 Éducation & enseignement, sciences & technologies, environnement
 
@@ -84,7 +91,7 @@ Démocratie, participation & délibération, éducation & citoyenneté, désint�
 ### Arts & culture
 Musique, théâtre, photo & vidéo, (web)design
 ### Sport
-Course à pied, fitness
+Course à pied, fitness, escalade
 
 
-<!-- ### Footer Dernière mise à jour : 05/2019 -->
+<!-- ### Footer Dernière mise à jour : 06/2019 -->
