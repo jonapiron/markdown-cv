@@ -3,7 +3,7 @@ layout: cv
 title: Jonathan Piron
 ---
 # Jonathan Piron <br/>
-assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
+assistant @<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>
 
 📅 03-11-1994 (24 ans) <br/>
 🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
@@ -18,7 +18,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 `oct. 2018- `
-__<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 - <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
@@ -58,13 +58,11 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 Études secondaires - _options : latin, anglais, néerlandais_
 
 
-## ⚙️ COMPÉTENCES 
+## ⚙️ COMPÉTENCES
 ### Informatique
-- Microsoft Office
-- Adobe Creative Cloud
-- Wordpress, Jekyll
-- HTML & CSS 
-- Social media marketing
+- Bureautique : Microsoft Office
+- Design & audiovisuel : Adobe Creative Cloud
+- Web : Wordpress, Jekyll / HTML & CSS / social media marketing
 
 ### Langues
 - Français - langue maternelle
@@ -74,18 +72,15 @@ __Institut Saint-Joseph__ _(Welkenraedt)_
 ### Divers 
 Gestion de groupe & médiation, animation & expression orale
 
-## 💬 SUJETS DE CONVERSATION
+## 💬 THÈMES DE PRÉDILECTION
 ### Politique
 Démocratie, participation & délibération, éducation & citoyenneté, désintérêt politique, écologie, civic tech
 
 ### Tech
-Open source, 
+Monde de l'Internet, Open source, mobile devices, technologies durables
 
 ### Média
-Podcast, production audio & vidéo, 
-
-### Divers
-Éducation & enseignement, sciences & technologies, environnement
+Production audio & vidéo, podcasts
 
 ## 🎨 LOISIRS
 ### Arts & culture
