@@ -18,6 +18,7 @@ assistant @<a target="_blank" href="https://uclouvain.be">UCLouvain</a>
 
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 `oct. 2018- `
+
 ### __<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
@@ -27,6 +28,7 @@ Assistant en charge de la production et du suivi de plusieurs cours en ligne :
 
 ## 💛 ENGAGEMENT BÉNÉVOLE 
 `2016- `
+
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
 Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
