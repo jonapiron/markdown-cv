@@ -25,7 +25,7 @@ Assistant en charge de la production et du suivi de plusieurs cours en ligne :
 - <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a>
 - Louv26x "Économie sociale et solidaire" (en création)
 
-## 💛 ENGAGEMENT BÉNÉVOLE 
+## 💛 ENGAGEMENTS BÉNÉVOLES 
 `2016- `
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
@@ -85,7 +85,7 @@ Production audio & vidéo / Podcasts
 ## 🎨 LOISIRS
 ### Arts & culture
 Musique, théâtre, photo & vidéo, (web)design
-### Sport
+### Sports
 Course à pied, fitness, escalade
 
 
