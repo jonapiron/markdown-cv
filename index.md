@@ -39,7 +39,7 @@ Membre du Théâtre Universitaire de Louvain (TUL) ABSL & Kot-à-Projet, en char
 `2012-2015`
 __<a target="_blank" href="https://bdeespo.com/">BDE ESPO</a>__
 
-Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication)
+Délégué, secrétaire puis président du Bureau des Étudiants de la Faculté ESPO (Sciences économiques, sociales, politiques et de communication) à l'UCLouvain
 
 ## 🎓 FORMATION
 `2015-2018`
