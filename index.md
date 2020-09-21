@@ -3,11 +3,11 @@ layout: cv
 title: Jonathan Piron
 ---
 # Jonathan Piron <br/>
-assistant @<a target="_blank" href="https://uclouvain.be/repertoires/jonathan.piron">UCLouvain</a>
+amateur professionnel <br/>
 
-📅 03-11-1994 (24 ans) <br/>
-🏠 Place Fernand Cocq 18 · 1050 Ixelles <br/>
-📧 <a href="mailto:jonathan.piron@uclouvain.be">jonathan.piron@uclouvain.be</a> <br/>
+📅 03-11-1994 (25 ans) <br/>
+🏠 Rue Jacob Makoy 83 · 4000 Liège <br/>
+📧 <a href="mailto:jonapiron@pm.me">jonapiron@pm.me</a> <br/>
 📱 +32 497 66 81 81 <br/>
 
 <div id="webaddress">
@@ -23,7 +23,7 @@ __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Ne
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 - <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
 - <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Méthodologie de la recherche en sciences sociales"</a>
-- Louv26x "Économie sociale et solidaire" (en création)
+- <a target="_blank" href="https://is.gd/Louv26x">Louv26x "Économie sociale et solidaire"</a>
 
 ## 💛 ENGAGEMENTS BÉNÉVOLES 
 `2016- `
@@ -52,17 +52,12 @@ __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Ne
 
 Bachelier en sciences politiques, orientation générale - _mineure en études européennes_
 
-`2006-2012`
-__Institut Saint-Joseph__ _(Welkenraedt)_
-
-Études secondaires - _options : latin, anglais, néerlandais_
-
 
 ## ⚙️ COMPÉTENCES
 ### Informatique
-- Bureautique : Microsoft Office
-- Design & audiovisuel : Adobe Creative Cloud
-- Web : Wordpress, Jekyll / HTML & CSS / social media marketing
+- Bureautique : Microsoft Office, LibreOffice
+- Design & audiovisuel : Adobe Creative Cloud, GIMP, OBS
+- Web : Wordpress, Jekyll, Hugo / HTML & CSS / social media marketing
 
 ### Langues
 - Français - langue maternelle
@@ -77,7 +72,7 @@ Gestion de groupe & médiation, animation & expression orale
 Démocratie / Participation & délibération / Éducation & citoyenneté / Désintérêt politique / Écologie / Civic tech
 
 ### Tech
-Culture Internet / Logiciels libres / Appareil mobiles / Technologies durables
+Culture Internet / Logiciels libres / Appareils mobiles / Technologies durables
 
 ### Média
 Production audio & vidéo / Podcasts
@@ -89,4 +84,4 @@ Musique, théâtre, photo & vidéo, (web)design
 Course à pied, fitness, escalade
 
 
-<!-- ### Footer Dernière mise à jour : 06/2019 -->
+<!-- ### Footer Dernière mise à jour : 09/2020 -->
