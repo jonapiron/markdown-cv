@@ -31,9 +31,9 @@ Gestion de projets en _freelance_ :
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
-- <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
-- <a target="_blank" href="https://is.gd/Louv23x">Louv23x "Pratiquer la méthode de recherche en sciences humaines et sociales"</a>
-- <a target="_blank" href="https://is.gd/Louv26x">Louv26x "Fondements de l'économie sociale et solidaire"</a>
+- <a target="_blank" href="https://is.gd/Louv3x">Louv3x «&#8239;Découvrir la science politique&#8239;»</a>
+- <a target="_blank" href="https://is.gd/Louv23x">Louv23x «&#8239;Pratiquer la méthode de recherche en sciences humaines et sociales&#8239;»</a>
+- <a target="_blank" href="https://is.gd/Louv26x">Louv26x «&#8239;Fondements de l'économie sociale et solidaire&#8239;»</a>
 
 ## 💛 ENGAGEMENTS BÉNÉVOLES 
 `2016-2020`
