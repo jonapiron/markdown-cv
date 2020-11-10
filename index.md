@@ -19,8 +19,8 @@ amateur professionnel <br/>
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 
 `août 2020- `
-__<a target="_blank" href="https://yelo.studio">yelo.studio</a>__
-Indépendant complémentaire
+__<a target="_blank" href="https://yelo.studio">yelo.studio</a>__ _(indépendant complémentaire)_
+
 Gestion de projets en _freelance_ : 
 - Organisation d'événements & services logistiques (_stage design_, sonorisation, éclairage...)
 - Production & réalisation audio/vidéo (formats web, podcast, _livestream_...)
@@ -28,7 +28,7 @@ Gestion de projets en _freelance_ :
 - Conseil en participation citoyenne & _community-building_ (délibération, intelligence collective, outils numériques...)
 
 `oct. 2018- `
-__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
+__<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
 - <a target="_blank" href="https://is.gd/Louv3x">Louv3x "Découvrir la science politique"</a>
