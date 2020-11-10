@@ -5,9 +5,9 @@ title: Jonathan Piron
 # Jonathan Piron <br/>
 amateur professionnel <br/>
 
-📅 03-11-1994 (25 ans) <br/>
+📅 03-11-1994<br/>
 🏠 Rue Jacob Makoy 83 · 4000 Liège <br/>
-📧 <a href="mailto:jonapiron@pm.me">jonapiron@pm.me</a> <br/>
+📧 <a href="mailto:jonathan@yelo.studio">jonathan@yelo.studio</a> <br/>
 📱 +32 497 66 81 81 <br/>
 
 <div id="webaddress">
@@ -17,6 +17,16 @@ amateur professionnel <br/>
 </div>
 
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
+
+`août 2020- `
+__<a target="_blank" href="https://yelo.studio">yelo.studio</a>__
+Indépendant complémentaire
+Gestion de projets en _freelance_ : 
+- Organisation d'événements & services logistiques (_stage design_, sonorisation, éclairage...)
+- Production & réalisation audio/vidéo (formats web, podcast, _livestream_...)
+- Développement web, copywriting & communication en ligne
+- Conseil en participation citoyenne & _community-building_ (délibération, intelligence collective, outils numériques...)
+
 `oct. 2018- `
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__ _(Louvain-la-Neuve)_
 
@@ -26,7 +36,7 @@ Assistant en charge de la production et du suivi de plusieurs cours en ligne :
 - <a target="_blank" href="https://is.gd/Louv26x">Louv26x "Économie sociale et solidaire"</a>
 
 ## 💛 ENGAGEMENTS BÉNÉVOLES 
-`2016- `
+`2016-2020`
 __<a target="_blank" href="https://tedxuclouvain.com">TEDxUCLouvain</a>__
 
 Membre de l'équipe organisatrice de la conférence TEDx de la communauté UCLouvain
@@ -56,7 +66,7 @@ Bachelier en sciences politiques, orientation générale - _mineure en études e
 ## ⚙️ COMPÉTENCES
 ### Informatique
 - Bureautique : Microsoft Office, LibreOffice
-- Design & audiovisuel : Adobe Creative Cloud, GIMP, OBS
+- Design & audiovisuel : Adobe Creative Cloud, GIMP, OBS Studio
 - Web : Wordpress, Jekyll, Hugo / HTML & CSS / social media marketing
 
 ### Langues
