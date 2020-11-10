@@ -19,7 +19,7 @@ amateur professionnel <br/>
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 
 `août 2020- `
-__<a target="_blank" href="https://yelo.studio">yelo.studio</a>__ _(indépendant complémentaire)_
+__<a target="_blank" href="https://yelo.studio">yelo.studio</a>__
 
 Gestion de projets en _freelance_ : 
 - Organisation d'événements & services logistiques (_stage design_, sonorisation, éclairage...)
