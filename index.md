@@ -94,4 +94,4 @@ Musique, théâtre, photo & vidéo, (web)design
 Course à pied, fitness, escalade
 
 
-<!-- ### Footer Dernière mise à jour : 09/2020 -->
+<!-- ### Footer Dernière mise à jour : 11/2020 -->
