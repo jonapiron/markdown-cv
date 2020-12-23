@@ -18,7 +18,7 @@ amateur professionnel <br/>
 
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 
-`août 2020- `
+`août 2020 - `
 __<a target="_blank" href="https://yelo.studio">yelo.studio</a>__
 
 Gestion de projets en _freelance_ : 
@@ -27,7 +27,7 @@ Gestion de projets en _freelance_ :
 - Développement web, copywriting & communication en ligne
 - Conseil en participation citoyenne & _community-building_ (délibération, intelligence collective, outils numériques...)
 
-`oct. 2018- `
+`oct. 2018 - déc. 2020 `
 __<a target="_blank" href="https://uclouvain.be">UCLouvain</a>__
 
 Assistant en charge de la production et du suivi de plusieurs cours en ligne : 
