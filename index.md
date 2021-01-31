@@ -18,6 +18,11 @@ amateur professionnel <br/>
 
 ## 💼 EXPÉRIENCE PROFESSIONNELLE
 
+`janvier 2021 - `
+__<a target="_blank" href="https://inventio-group.eu">Inventio Group</a> & <a target="_blank" href="https://particitiz.org">Particitiz</a>__
+Gestion de projets de participation et délibération citoyennes, en ligne et en présentiel
+
+
 `août 2020 - `
 __<a target="_blank" href="https://yelo.studio">yelo.studio</a>__
 
@@ -94,4 +99,4 @@ Musique, théâtre, photo & vidéo, (web)design
 Course à pied, fitness, escalade
 
 
-<!-- ### Footer Dernière mise à jour : 11/2020 -->
+<!-- ### Footer Dernière mise à jour : 2021-01 -->
