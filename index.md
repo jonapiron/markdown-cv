@@ -20,6 +20,7 @@ amateur professionnel <br/>
 
 `janvier 2021 - `
 __<a target="_blank" href="https://inventio-group.eu">Inventio Group</a> & <a target="_blank" href="https://particitiz.org">Particitiz</a>__
+
 Gestion de projets de participation et délibération citoyennes, en ligne et en présentiel
 
 
