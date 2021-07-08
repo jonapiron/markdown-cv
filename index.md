@@ -3,7 +3,7 @@ layout: cv
 title: Jonathan Piron
 ---
 # Jonathan Piron <br/>
-amateur professionnel <br/>
+tech, médias & politique <br/>
 
 📅 03-11-1994<br/>
 🏠 Rue Jacob Makoy 83 · 4000 Liège <br/>
@@ -27,7 +27,7 @@ Gestion de projets de participation et délibération citoyennes, en ligne et en
 `août 2020 - `
 __<a target="_blank" href="https://yelo.studio">yelo.studio</a>__
 
-Gestion de projets en _freelance_ : 
+Artisanat numérique & gestion de projets en _freelance_ : 
 - Organisation d'événements & services logistiques (_stage design_, sonorisation, éclairage...)
 - Production & réalisation audio/vidéo (formats web, podcast, _livestream_...)
 - Développement web, copywriting & communication en ligne
